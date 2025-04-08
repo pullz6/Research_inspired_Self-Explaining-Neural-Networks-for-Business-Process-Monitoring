@@ -7,4 +7,5 @@ why an algorithm predicts a lengthy wait for a hospital procedure or foresees a 
 a loan offer is vital for offering valuable insights to
 stakeholders and clients." 
 
+INSPIRED BY - NAP LSTMbased model
 
