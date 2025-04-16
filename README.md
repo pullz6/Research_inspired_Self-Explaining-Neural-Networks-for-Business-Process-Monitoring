@@ -13,4 +13,6 @@ follows a methodology akin to the general self-explaining framework (Alvarez Mel
 Jaakkola, 2018) and its more recent adaptation to the
 sufficient explanation setting (Bassan et al., 2025).
 
+Code for the original model - https://github.com/verenich/ProcessSequencePrediction/tree/master
+
 
