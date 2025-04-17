@@ -15,4 +15,7 @@ sufficient explanation setting (Bassan et al., 2025).
 
 Code for the original model - https://github.com/verenich/ProcessSequencePrediction/tree/master
 
+![image](https://github.com/user-attachments/assets/2b6b4b01-3aad-4e3d-96ae-b5cfbdefe175)
+
+
 
