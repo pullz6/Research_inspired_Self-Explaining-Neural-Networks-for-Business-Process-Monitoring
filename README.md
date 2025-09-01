@@ -3,7 +3,6 @@
 This project is insipred by https://arxiv.org/pdf/2503.18067v1. We attempt to re-create and deploy this model as a RESTful API. 
 
 
-
 ## Table of Contents
 
 1. [Project Overview]
