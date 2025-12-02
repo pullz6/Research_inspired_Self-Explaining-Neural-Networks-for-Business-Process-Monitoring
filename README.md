@@ -58,4 +58,4 @@ project-root/
 
 
 ## Planned Changes
-It is planned to re-train the model to obtain higher accuracy after July 2025. 
+It is planned to re-train the model to obtain higher accuracy after Jan 2026. 
